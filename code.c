@@ -4,7 +4,7 @@ int main()
 {
 
 	
-
+        aaa;
 	printf("bbbbb");
 	return 0;
 	
